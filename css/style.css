@@ -1,0 +1,49 @@
+* {
+  outline: 1px solid red;
+}
+.link{
+ font-weight: 700;
+ padding: 21px;
+ display: inline-block;	
+ text-decoration: none;
+ color: white;
+}
+header
+{
+position: fixed;
+background:red;
+width: 100%;
+top: 0;
+}
+#service {    
+background-color: black;
+text-align: center;
+color: #fff;
+padding: 70px 7px;
+
+
+}
+.box-services{
+display: inline-block;
+width: 100%;
+margin-top: 63px;
+background-color:black;
+}
+.imagen{
+    display:inline-block;
+    margin-top: 38px;
+    margin-left:80px;
+     border:10px dashed maroon;   
+}
+.mb-0{
+    background:red;
+    display: inline-block;
+    margin-right: 38px;
+    padding: 10px 130px;
+}
+.parrfo1{
+    display: inline-block;
+    padding: 10px 120px;
+    width: 10%;
+   
+}
