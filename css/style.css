@@ -1,6 +1,4 @@
-* {
-  outline: 1px solid red;
-}
+
 .link{
  font-weight: 700;
  padding: 21px;
@@ -40,6 +38,7 @@ background-color:black;
     display: inline-block;
     margin-right: 38px;
     padding: 10px 130px;
+    color: white;
 }
 .parrfo1{
     display: inline-block;
