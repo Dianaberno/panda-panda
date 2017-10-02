@@ -13,15 +13,15 @@
 
 header {
     position: fixed;
-    background: red;
+    background: yellowgreen;
     width: 100%;
     top: 0;
 }
 
 #service {
-    background-color: black;
+    background-image: url(../img/bambues1.jpg);
     text-align: center;
-    color: #fff;
+    color: black;
     padding: 70px 7px;
 }
 
@@ -33,7 +33,7 @@ header {
     display: inline-block;
     width: 100%;
     margin-top: 63px;
-    background-color: black;
+    background-image: url(../img/Bambu.jpg);
 }
 
 .imagen {
@@ -44,11 +44,12 @@ header {
 }
 
 .mb-0 {
-    background: red;
+    background: yellowgreen;
     display: inline-block;
     margin-right: 38px;
     padding: 10px 130px;
-    color: white;
+    color: green;
+    font-weight: 700px;
 }
 
 .parrfo1 {
