@@ -19,10 +19,14 @@ header {
 }
 
 #service {
-    background-image: url(../img/bambues1.jpg);
+    /*background-image: url(../img/Bambu.jpg);*/
+    background-color: #B49B2A;
     text-align: center;
     color: black;
     padding: 70px 7px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
 }
 
 #referencia {
@@ -31,30 +35,44 @@ header {
 
 .box-services {
     display: inline-block;
-    width: 100%;
+    width: 90%;
+    height: 100%;
     margin-top: 63px;
-    background-image: url(../img/Bambu.jpg);
+    margin-bottom: 63px;
+    background-image: url(../img/Bambu.png), url(../img/Bambu1.png);
+    background-repeat: repeat;
+    justify-content: center;
 }
 
 .imagen {
     display: inline-block;
     margin-top: 38px;
     margin-left: 80px;
-    border: 10px dashed maroon;
+    width: 200px;
+    height: 300px;
+    border: 15px solid #A1601A;
+    border-radius: 90px 5px 90px;
 }
 
 .mb-0 {
-    background: yellowgreen;
+    background: rgb(161, 206, 46);
     display: inline-block;
     margin-right: 38px;
-    padding: 10px 130px;
-    color: green;
-    font-weight: 700px;
+    padding: 50px 130px;
+    color: white;
+    font-weight: 700;
+    border: 3px solid #685540;
+    border-radius: 5px 90px 5px;
 }
 
 .parrfo1 {
+    background: rgb(109, 175, 201);
     display: inline-block;
     padding: 10px 120px;
-    width: 10%;
+    width: 25%;
     text-align: left;
+    color: black;
+    font-weight: 700;
+    border: 10px double #685540;
+    border-radius: 5px 30px 5px;
 }
