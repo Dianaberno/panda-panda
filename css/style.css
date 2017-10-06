@@ -29,8 +29,20 @@ header {
     justify-content: center;
 }
 
-#referencia {
-    border-radius: 100px;
+.referencia {
+    border-radius: 10px solid;
+    color: skyblue;
+    text-decoration: none;
+    top: 20%;
+    position: absolute;
+    font-size: 20px;
+    padding: 9px;
+    width: 30px;
+    height: 16px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 100%;
+    background: white;
 }
 
 .box-services {
@@ -42,6 +54,22 @@ header {
     background-image: url(../img/Bambu.png), url(../img/Bambu1.png);
     background-repeat: repeat;
     justify-content: center;
+}
+
+.box-services1 {
+    display: inline-block;
+    width: 90%;
+    height: 100%;
+    margin-top: 63px;
+    margin-bottom: 63px;
+}
+
+.box-services2 {
+    display: inline-block;
+    width: 90%;
+    height: 100%;
+    margin-top: 63px;
+    margin-bottom: 63px;
 }
 
 .imagen {
